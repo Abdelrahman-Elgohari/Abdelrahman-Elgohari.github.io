@@ -1,8 +1,20 @@
+:root {
+    --black: #050609;
+    --white: #ffffff;
+    --darkgray: #747578;
+    --gray: #d2d2d2;
+    --lightgray: #dae2df;
+}
+
+
+
 body {
-    background-image: url(/img/machines.jpg);
+    background-image: url(/img/achtergrond.jpg);
     background-size: cover;
 }
 
 .navbar {
-    background-color: #DAE2Df;
+    background-color: var(--lightgray);
+    font-family: "Merriweather", serif;
 }
+
