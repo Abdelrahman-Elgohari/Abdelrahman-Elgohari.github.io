@@ -9,7 +9,7 @@
 
 
 body {
-    background-image: url(/img/achtergrond.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 40%), rgba(0, 0, 0, 40%)),url(/img/achtergrond.jpg);
     background-size: cover;
 }
 
@@ -17,4 +17,3 @@ body {
     background-color: var(--lightgray);
     font-family: "Merriweather", serif;
 }
-
