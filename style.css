@@ -13,6 +13,7 @@
     background-size: cover;
     background-attachment: fixed;
     
+    
 
 }
 
@@ -27,4 +28,11 @@
 
 .aboutme-body{
     background-color: var(--black);
+}
+
+.contact-body {
+    background-color: var(--black);
+    background-image: linear-gradient(rgba(0, 0, 0, 85%), rgba(0, 0, 0, 85%)), url(/img/groenetankzip.jpg);
+    background-size:cover;
+    background-attachment: fixed;
 }
