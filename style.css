@@ -25,3 +25,7 @@
     background-color: var(--darkgray);
     border-color: var(--darkgray);
 }
+
+.aboutme-body{
+    background-color: var(--black);
+}
