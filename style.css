@@ -36,3 +36,10 @@
     background-size:cover;
     background-attachment: fixed;
 }
+
+.mywork-body {
+    background-image: linear-gradient(rgba(0, 0, 0, 50%), rgba(0, 0, 0, 50%)),url(/img/achtergrondruiten.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+
+}
